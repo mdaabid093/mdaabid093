@@ -49,7 +49,7 @@
 | [CI/CD in AWS](https://github.com/mdaabid093/CI-CD-IN-AWS) | AWS CodePipeline → CodeBuild → CodeDeploy pipeline for automated build and deployment |
 | [AWS Cloud Cost Optimization](https://github.com/mdaabid093/AWS-Cloud-Cost-Optimization-Project) | Python-based tooling to identify and reduce AWS spend |
 
-*(Pin these four repos on your profile so they show above the fold.)*
+
 
 ---
 
