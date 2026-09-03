@@ -44,16 +44,17 @@
 
 | Project | What it demonstrates |
 |---|---|
+| [Flask CI/CD Pipeline with GitOps](https://github.com/mdaabid093/Flask-CICD-Pipeline) | End-to-end GitOps loop: GitHub Actions builds/tests/pushes a SHA-tagged Docker image, auto-updates the K8s manifest, and ArgoCD (Auto-Sync + Self Heal + Prune) rolls it out with zero manual `kubectl` steps |
 | [End-to-End Kubernetes Three-Tier DevSecOps](https://github.com/mdaabid093/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project) | Full three-tier app deployed to Kubernetes with Jenkins pipeline, Terraform-provisioned infra, and security scanning gates |
 | [CI/CD in AWS](https://github.com/mdaabid093/CI-CD-IN-AWS) | AWS CodePipeline → CodeBuild → CodeDeploy pipeline for automated build and deployment |
 | [AWS Cloud Cost Optimization](https://github.com/mdaabid093/AWS-Cloud-Cost-Optimization-Project) | Python-based tooling to identify and reduce AWS spend |
 
-*(Pin these four to six repos on your profile so they show above the fold — see the repinning note below.)*
+*(Pin these four repos on your profile so they show above the fold.)*
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/md-aabid-husssain/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aabid-husssain/)
 
 ---
 <sub>Currently looking for DevOps / Cloud Engineer roles (fresher, AWS-primary) — open to relocation.</sub>
