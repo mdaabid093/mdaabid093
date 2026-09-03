@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Aabid Hussain 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Kubernetes | CI/CD</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Azure | Kubernetes | CI/CD</h3>
 
 ---
 
